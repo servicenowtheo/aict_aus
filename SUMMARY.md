@@ -8,3 +8,4 @@
 * [Lab 3: Assess – Evaluate the AI Use Case Impacts](lab-3-assess-evaluate-the-ai-use-case-impacts.md)
 * [Lab 4: Build and Test – Implement, Analyze, & Attest Controls](lab-4-build-and-test-implement-analyze-and-attest-controls.md)
 * [Lab 5: Deploy & Review the AI System Record and Finalize All Pre-Deployment Activities](lab-5-deploy-and-review-the-ai-system-record-and-finalize-all-pre-deployment-activities.md)
+* [Bonus: Agent Discovery](bonus-agent-discovery.md)
