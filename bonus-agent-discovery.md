@@ -14,6 +14,8 @@ Duration: 10 minutes
 2. Click the **Run Agent Discovery** button.
 3. Click through the confirmation dialog. Watch the scan cycle through the vendors it's checking — AWS, Azure, Databricks, OpenAI, Google, Salesforce, HuggingFace, Snowflake.
 4. When the scan completes, you'll see **"✓ Discovered 8 AI agents."**
+
+    <figure><img src=".gitbook/assets/image (210).png" alt=""><figcaption></figcaption></figure>
 5. Click **Open AI Asset Inventory**. All 8 agents are unmanaged, and each belongs to a different department:
 
    | Agent | Vendor | Department |
@@ -26,6 +28,8 @@ Duration: 10 minutes
    | Salesforce Einstein — CRM Recommendations | Salesforce | Sales |
    | HuggingFace Inference — Sentiment Analysis | HuggingFace | Marketing |
    | Snowflake Cortex — Workforce Insights | Snowflake | HR |
+
+   <figure><img src=".gitbook/assets/image (211).png" alt=""><figcaption></figcaption></figure>
 
    Note: this is the point of AI discovery — it's rarely one rogue tool. Here it's eight, spread across six departments, none of which ever went through intake.
 
@@ -41,6 +45,8 @@ Open **Databricks Mosaic AI — Internal Analytics Copilot** — engineering bui
    - **Generate Workforce Forecast**
    - **Export Analytics Dataset**
 
+   <figure><img src=".gitbook/assets/image (212).png" alt=""><figcaption></figcaption></figure>
+
    Note: this is the difference between a name in a spreadsheet and a real governance picture — you can now see exactly what this agent touches, not just that it exists.
 
 ### Section 3: Bring It Under Governance
@@ -52,6 +58,8 @@ Discovery only tells you what's out there — nothing changes until someone acts
 3. Click **Activate**.
 4. Click **Run Now**.
 5. You'll see: **"Lab: Manage Discovered AI Agents - Processed 8.0 assets to managed status."**
+
+   <figure><img src=".gitbook/assets/image (213).png" alt=""><figcaption></figcaption></figure>
 6. Return to the AI Asset Inventory and confirm all 8 agents now show **governed = true**.
 
    Note: this action only flips the governed flag — it does not run a risk assessment for you. A newly-governed agent that actually needs one still goes through Impact Assessment like any system in Lab 3.
