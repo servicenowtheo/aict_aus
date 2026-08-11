@@ -67,7 +67,7 @@ Discovery only tells you what's out there — nothing changes until someone acts
 ### Section 4: See the Value Payoff
 
 1. Navigate to the **Value** tab.
-2. Each of the 8 newly-governed agents now has a value template attached, showing time saved and acceptance rate per use.
-3. Look specifically at Databricks Mosaic AI — Internal Analytics Copilot: roughly 30 minutes saved per use, at a 70% acceptance rate among engineers who no longer hand-write SQL.
+2. Each of the 8 newly-governed agents now shares a value template — the same productivity story engineering configured for Databricks — and shows non-zero usage and value once governed.
+3. Look specifically at Databricks Mosaic AI — Internal Analytics Copilot (and its Access Map twin, Databricks Mosaic AI Agent): both now show real productivity-gained hours and usage counts in the System summary table, driven by that shared template.
 
 _**Congratulations, you've discovered, governed, and measured the value of shadow AI across your organization!**_
